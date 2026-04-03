@@ -1,52 +1,52 @@
 # Advanced Data Analysis Project
 
-## 📌 Project Overview
-This project focuses on analyzing sales data using SQL.  
-The goal is to explore customer behavior, product performance, and business trends using real-world data.
+## Project Overview
+In this project, I worked on analyzing sales data using SQL.  
+I tried to understand how customers behave, which products perform well, and how sales change over time.
 
 ---
 
-## 🛠️ Tools Used
-- SQL (Joins, Aggregations, CTEs, Window Functions)
-- Excel (basic data understanding)
-- Power BI (for visualization - optional)
+## Tools Used
+- SQL (Joins, Group By, CTE, Window Functions)
+- Excel (for basic understanding of data)
+- Power BI (learning stage)
 
 ---
 
-## 📂 Project Structure
-- datasets → Contains raw data files
-- scripts → SQL queries for analysis
-- docs → Project explanation and insights
+## What I Did in This Project
+- Calculated total revenue for different categories  
+- Analyzed customer types (VIP, Regular, New)  
+- Studied sales trends over time  
+- Checked product performance  
+- Compared sales across different countries  
 
 ---
 
-## 📊 Key Analysis Performed
-- Total revenue by category
-- Customer segmentation (VIP, Regular, New)
-- Sales trends over time
-- Product performance analysis
-- Country-wise sales distribution
+## Project Structure
+- datasets → contains the raw data  
+- scripts → SQL queries used for analysis  
+- docs → notes and explanation  
 
 ---
 
-## 🎯 Key Skills Demonstrated
-- Data Cleaning
-- Data Aggregation
-- Writing Complex SQL Queries
-- Business Insight Generation
-- Problem Solving
+## What I Learned
+Through this project, I improved my SQL skills and learned how to:
+- write better queries  
+- analyze real data  
+- find useful insights  
 
 ---
 
-## 🚀 Project Goal
-To build a strong foundation in SQL for Data Analyst roles and gain hands-on experience in real-world data analysis.
+## About Me
+Hi, I am Shalini Chaturvedy.  
+I am learning Data Analysis and working on improving my SQL, Excel, and Power BI skills.  
+Currently looking for entry-level opportunities.
 
 ---
 
-## 👩‍💻 About Me
-Hi, I'm **Shalini Chaturvedy**  
-Aspiring Data Analyst skilled in SQL, Python, and Power BI.  
-Currently looking for entry-level Data Analyst opportunities.
+## Connect with Me
+LinkedIn: https://www.linkedin.com/in/shalini-chaturvedy-55023b271/  
+GitHub: https://github.com/ChaturvedyShalini
 
 ---
 
