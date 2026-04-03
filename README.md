@@ -42,11 +42,6 @@ Hi, I am Shalini Chaturvedy.
 I am learning Data Analysis and working on improving my SQL, Excel, and Power BI skills.  
 Currently looking for entry-level opportunities.
 
----
-
-## Connect with Me
-LinkedIn: https://www.linkedin.com/in/shalini-chaturvedy-55023b271/  
-GitHub: https://github.com/ChaturvedyShalini
 
 ---
 
